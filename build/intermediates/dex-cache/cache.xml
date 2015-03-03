@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\pre-dexed\debug\classes-ca739e21a95cec93d95e826f7e255e7c90090c01.jar" />
+    </item>
+    <item
+        jar="C:\Users\OLEG\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-b1793f3eb26ec51ee7f0bd86b6bcd3543d244140.jar" />
+    </item>
+    <item
+        jar="C:\Users\OLEG\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-android\4.48\afa06f539a4026c10b247386312aa67404b80a16\ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\pre-dexed\debug\ormlite-android-4.48-d157013423c77818bbfa582bbc9214abc3aad7bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\OLEG\.gradle\caches\modules-2\files-2.1\com.j256.ormlite\ormlite-core\4.48\e579bd2905d0399af5029aaaf9817d5fa0ca88a5\ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\pre-dexed\debug\ormlite-core-4.48-752938ef6fb48608fdb3a46b582289369a797691.jar" />
+    </item>
+    <item
+        jar="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\pre-dexed\debug\classes-85c707c33c13f264ea12ee2c1868b5c530700ead.jar" />
+    </item>
+    <item
+        jar="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\IT\AndroidStudioProjects\FirstProject\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a0c5ef1c12b852a2fe60893a4498dfed72f85af5.jar" />
+    </item>
+
+</items>
